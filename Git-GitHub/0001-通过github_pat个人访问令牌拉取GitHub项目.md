@@ -18,3 +18,5 @@ git clone https://{用户名}:{令牌字符串，比如：github_pat_xxx}@github
 3. 直接在项目地址后+“.git”。
 
 ![1720150122841](images/0001-通过github_pat个人访问令牌拉取GitHub项目/1720150122841.png)
+
+![1720150566602](images/0001-通过github_pat个人访问令牌拉取GitHub项目/1720150566602.png)
